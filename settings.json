@@ -1,0 +1,96 @@
+{
+  "media_formats": {
+    "mp3": {
+      "extensions": [".mp3"],
+      "convertible_to": [".wav", ".flac", ".aac", ".ogg", ".opus", ".m4a", ".mp4", ".avi", ".mkv", ".mov", ".webm", ".ts", ".mka", ".wma", ".ac3"]
+    },
+    "wav": {
+      "extensions": [".wav"],
+      "convertible_to": [".mp3", ".flac", ".aac", ".ogg", ".opus", ".m4a", ".mp4", ".avi", ".mkv", ".mov", ".webm", ".ts", ".mka", ".wma", ".ac3"]
+    },
+    "flac": {
+      "extensions": [".flac"],
+      "convertible_to": [".mp3", ".wav", ".aac", ".ogg", ".opus", ".m4a", ".mp4", ".avi", ".mkv", ".mov", ".webm", ".ts", ".mka", ".wma", ".ac3"]
+    },
+    "aac": {
+      "extensions": [".aac"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".ogg", ".opus", ".m4a", ".mp4", ".avi", ".mkv", ".mov", ".webm", ".ts", ".mka", ".wma", ".ac3"]
+    },
+    "ogg": {
+      "extensions": [".ogg"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".opus", ".m4a", ".mp4", ".avi", ".mkv", ".mov", ".webm", ".ts", ".mka", ".wma", ".ac3"]
+    },
+    "opus": {
+      "extensions": [".opus"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".m4a", ".mp4", ".avi", ".mkv", ".mov", ".webm", ".ts", ".mka", ".wma", ".ac3"]
+    },
+    "m4a": {
+      "extensions": [".m4a"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".opus", ".mp4", ".avi", ".mkv", ".mov", ".webm", ".ts", ".mka", ".wma", ".ac3"]
+    },
+    "mp4": {
+      "extensions": [".mp4"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".opus", ".m4a", ".avi", ".mkv", ".mov", ".webm", ".ts", ".webp", ".gif", ".apng"]
+    },
+    "avi": {
+      "extensions": [".avi"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".opus", ".m4a", ".mp4", ".mkv", ".mov", ".webm", ".ts", ".webp", ".gif", ".apng"]
+    },
+    "mov": {
+      "extensions": [".mov"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".opus", ".m4a", ".mp4", ".avi", ".mkv", ".webm", ".ts", ".webp", ".gif", ".apng"]
+    },
+    "mkv": {
+      "extensions": [".mkv"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".opus", ".m4a", ".mp4", ".avi", ".mov", ".webm", ".ts", ".webp", ".gif", ".apng"]
+    },
+    "webm": {
+      "extensions": [".webm"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".opus", ".m4a", ".mp4", ".avi", ".mkv", ".mov", ".ts", ".webp", ".gif", ".apng"]
+    },
+    "ts": {
+      "extensions": [".ts"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".opus", ".m4a", ".mp4", ".avi", ".mkv", ".mov", ".webm", ".webp", ".gif"]
+    },
+    "webp": {
+      "extensions": [".webp"],
+      "convertible_to": [".mp4", ".gif", ".apng", ".png", ".jpg", ".jpeg"]
+    },
+    "gif": {
+      "extensions": [".gif"],
+      "convertible_to": [".mp4", ".webp", ".apng", ".png", ".jpg", ".jpeg"]
+    },
+    "apng": {
+      "extensions": [".apng"],
+      "convertible_to": [".mp4", ".webp", ".gif", ".png", ".jpg", ".jpeg"]
+    },
+    "mka": {
+      "extensions": [".mka"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".opus", ".m4a"]
+    },
+    "wma": {
+      "extensions": [".wma"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".opus", ".m4a"]
+    },
+    "ac3": {
+      "extensions": [".ac3"],
+      "convertible_to": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".opus", ".m4a"]
+    },
+    "jpg": {
+      "extensions": [".jpg", ".jpeg"],
+      "convertible_to": [".png", ".webp", ".gif", ".bmp", ".tiff"]
+    },
+    "png": {
+      "extensions": [".png"],
+      "convertible_to": [".jpg", ".jpeg", ".webp", ".gif", ".bmp", ".tiff"]
+    },
+    "bmp": {
+      "extensions": [".bmp"],
+      "convertible_to": [".jpg", ".jpeg", ".png", ".webp", ".gif", ".tiff"]
+    },
+    "tiff": {
+      "extensions": [".tiff"],
+      "convertible_to": [".jpg", ".jpeg", ".png", ".webp", ".gif", ".bmp"]
+    }
+  }
+}
